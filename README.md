@@ -1,48 +1,33 @@
 # Project Name
-> Outline a brief description of your project.
+<img width="660" alt="image" src="https://user-images.githubusercontent.com/41899321/145100762-b8f8825c-409b-4bbf-bf88-f3d5572da9fd.png">
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/41899321/145100773-0ea5d682-a7fa-455d-8bfb-0d19c128ee16.png">
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+<img width="283" alt="image" src="https://user-images.githubusercontent.com/41899321/145100649-41dd2afd-d21c-45a7-97fb-58ec68be29cb.png">
 
-<!-- You can include any other section that is pertinent to your problem -->
+## Introduction
+<img width="1574" alt="image" src="https://user-images.githubusercontent.com/41899321/145100003-dca23979-c5d8-455a-bae6-53bec15482ce.png">
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Problem statement
+ 
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/41899321/145101373-01bc55ec-7ae1-4bee-a171-931e51d205f2.png">
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Data Understanding 
+<img width="789" alt="image" src="https://user-images.githubusercontent.com/41899321/145101483-b71377a3-49f4-403d-a314-429cb03c8891.png">
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+## Data Cleaning and Manipulating
+<img width="725" alt="image" src="https://user-images.githubusercontent.com/41899321/145101578-f9193c5a-6c93-4d13-84ce-b00d37a6d477.png">
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+## Recommendation
+<img width="1524" alt="image" src="https://user-images.githubusercontent.com/41899321/145101659-2740f50b-51c7-4429-bdfd-db815c6a3165.png">
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@arunkumaranup] - feel free to contact me!
 
 
 <!-- Optional -->
